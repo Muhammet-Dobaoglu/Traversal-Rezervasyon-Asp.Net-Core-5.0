@@ -17,3 +17,4 @@ Kendim, projeye bir çok şey ekledim ve eksiklerini giderdim.
 <img width="1374" alt="Ekran Resmi 2023-02-17 10 02 15" src="https://user-images.githubusercontent.com/106467744/219573072-89ddbb2c-7224-4601-953e-46c5fcb412c7.png">
 <img width="1374" alt="Ekran Resmi 2023-02-17 10 02 48" src="https://user-images.githubusercontent.com/106467744/219573087-7708110c-ef30-4861-aec3-d930acb1f4e8.png">
 
+
